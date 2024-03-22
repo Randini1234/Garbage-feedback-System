@@ -69,7 +69,7 @@ export default function Feedback() {
 
   return (
     <div>
-      ViewSchu
+    
       <div>
         <div className="flex justify-center items-center">
           {currentUser?.isAdmin && (
